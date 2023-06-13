@@ -1,0 +1,75 @@
+.Abhi{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 15px;
+
+}
+header{
+  background-color: aqua;
+    padding: 10px 211px;
+display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+}
+.logo{
+    font-size: 3ch;
+    user-select: none;
+    color: black;
+    padding-right: 100px;
+}
+.navigationbar a{
+    position: relative;
+    font-size:16px;
+    text-decoration: none;
+    color:black;
+ margin-right:40px;
+ font-weight: 100px;
+ margin-left: 30px;
+}
+.navigationbar a:hover{
+color:blue;
+}
+.A{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 10px;
+    justify-content: space-around;
+   }
+.q{
+    text-align: center;
+    margin-top: 30px;
+}
+.v{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30px;
+    padding-left: 470px;
+    text-align: center;
+}
+.m{
+    display: flex;
+}
+.vertical-menu {
+    width: 200px; /* Set a width if you like */
+  }
+  
+  .vertical-menu a {
+    background-color: #eee; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+  }
+  
+  .vertical-menu a.active {
+    background-color: #04AA6D; /* Add a green color to the "active/current" link */
+    color: white;
+  }
+  

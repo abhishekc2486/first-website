@@ -1,0 +1,124 @@
+.Abhi{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 10px;
+
+}
+header{
+  background-color: aqua;
+    padding: 10px 211px;
+display: flex;
+    justify-content: space-between;
+   
+    align-items: center;
+}
+.logo{
+    font-size: 3ch;
+    user-select: none;
+    color: black;
+    padding-right: 100px;
+}
+.navigationbar a{
+    position: relative;
+    font-size:16px;
+    text-decoration: none;
+    color:black;
+ margin-right:40px;
+ font-weight: 100px;
+ margin-left: 30px;
+}
+.navigationbar a:hover{
+color:blue;
+}
+.A{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 10px;
+    justify-content: space-around;
+   }
+.q{
+    text-align: center;
+    margin-top: 30px;
+}
+.v{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 420px;
+    text-align: center;
+}
+.in{
+  background-color: rgba(0, 0, 255, 0.466);
+    position: absolute;
+    width: 1480px;
+    height: 400px;
+}
+.out{
+    position: absolute;
+  margin-left:200px ;
+  display: flex;
+  color: black;
+  margin-top: 100px;
+    
+}
+.or{
+    padding-left: 300px;
+    padding-top: 50px;
+}
+.b{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 500px;
+    padding-right: 120px;
+    padding-bottom: 50px;
+    margin-left: 130px;
+}
+.vip{
+display: flex;
+margin-left: 40px;
+justify-content: space-around;
+margin-top: 30px;
+
+}
+.pop{
+padding-right: 100px;
+display: flex;
+justify-content: space-around;
+}
+.vo{
+    text-align: center;
+    margin-top: 160px;
+}
+.ov{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.rohit{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 60px;
+    padding-right: 30px
+}
+.Ankit{
+    text-align: center;
+    margin-top: 100px
+}
+.hi{
+    text-align: center;
+    margin-top: 150px;
+}
+.ro{
+    display: flex;
+    justify-content:space-around ;
+    margin-top: 150px;
+    text-align: center;
+}
+.w{
+    padding-left: 160px;
+    margin-top: 100px;
+    margin-right: 80px;
+    display: flex
+}
